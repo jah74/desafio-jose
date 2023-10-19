@@ -1,0 +1,1 @@
+console.log(Object.is(value1, value2);)
